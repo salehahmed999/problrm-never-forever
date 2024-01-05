@@ -19,3 +19,14 @@ h2{
     height: 300px;
     width: 350px;
 }
+
+.goal{
+    height: 300px;
+    width: 750px;
+}
+
+.second{
+     background-color: darkcyan;
+     padding: 15px;
+     margin: 10px;
+}
