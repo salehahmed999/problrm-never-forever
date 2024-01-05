@@ -1,0 +1,21 @@
+div{
+    background-color: cornflowerblue;
+    color: aquamarine;
+    padding: 10px;
+}
+
+h3{
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    background-color: darkgreen;
+    padding: 15px;
+}
+
+.car{
+    height: 300px;
+    width: 350px;
+}
